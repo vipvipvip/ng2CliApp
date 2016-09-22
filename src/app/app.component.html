@@ -1,3 +1,15 @@
 <h1>
   {{title}}
 </h1>
+<div>  
+  one way msg: {{oneWayMsg}}
+</div>
+<div>
+  two way msg: {{twoWayChangeMsg}}
+</div>
+<div>
+  Access cTable variables: {{cTable.color}} 
+</div>
+<app-c-table #cTable [oneWay]="name" (oneWayMsg)="getMsg($event)" (twoWayChange)="twoWayChangeMsg=$event"></app-c-table>
+<button (click)="sayHello()"> AppComponent click me</button>
+
