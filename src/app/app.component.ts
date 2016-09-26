@@ -10,11 +10,9 @@ import { YahooQuotesService } from './services/yahoo-quotes.service';
 })
 
 export class AppComponent {
+  name = 'John';
   title = 'app works!';
-  name = "John"
   oneWayMsg = '';
-  msgFromChild = "NONE";
-  twoWayChangeMsg = "";
   tickers=[];
   twoWay = "TwoWay";
 
@@ -22,7 +20,7 @@ export class AppComponent {
   constructor(private yqs: YahooQuotesService) {}
   sayHello(){
     console.log('hello');
-    this.twoWayChangeMsg = "changed by parent";
+    this.twoWay = "changed by parent";
     this.yqs.getStockQuote().subscribe(response => {
       this.tickers = response.json().query.results.quote;
       console.log(this.tickers);

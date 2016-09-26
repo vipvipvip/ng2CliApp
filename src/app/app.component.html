@@ -6,7 +6,7 @@
     one way msg: {{oneWayMsg}}
   </div>
   <div>
-    two way msg: {{twoWayChangeMsg}}
+    two way msg: {{twoWay}}
   </div>
   <div>
     Access cTable variables: {{cTable.color}} 
@@ -37,7 +37,7 @@
     </div>
 
     <div class="row tmt-row">
-      <app-c-table #cTable [oneWay]="name" (oneWayMsg)="getMsg($event)" (twoWayChange)="twoWayChangeMsg=$event">
+      <app-c-table #cTable [oneWay]="name" (oneWayMsg)="getMsg($event)" [(twoWay)]="twoWay">
         <!--<div class="row tmt-row">-->
           <div class="col-md-3">
             <button class="col-md-3 main-button" type="button" (click)="sayHello()"> AppComponent click me</button>

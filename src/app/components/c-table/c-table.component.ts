@@ -32,6 +32,7 @@ export class CTableComponent implements OnInit {
   }
 
   sendTwoMsg() {
-    this.twoWayChange.emit("twoWayMsg from CTableComponent");
+    this.twoWay = 'changed by child';
+    this.twoWayChange.emit(this.twoWay);
   }
 }
