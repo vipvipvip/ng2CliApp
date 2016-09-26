@@ -10,6 +10,12 @@
 <div>
   Access cTable variables: {{cTable.color}} 
 </div>
+<div>
+<ul>
+  <li *ngFor="let ticker of tickers">
+    {{ticker.Symbol}}
+  </li>
+</ul>
+</div>
 <app-c-table #cTable [oneWay]="name" (oneWayMsg)="getMsg($event)" (twoWayChange)="twoWayChangeMsg=$event"></app-c-table>
 <button (click)="sayHello()"> AppComponent click me</button>
-
