@@ -12,7 +12,7 @@
     Access cTable variables: {{cTable.color}} 
   </div>
   <div class="container-fluid table">
-    <div class="row tmt-row grey-text">
+    <div class="row tmt-row grey-text" *ngIf="tickers.length > 0">
       <div class="col-md-4 uppercase">
         Ticker Symbol
       </div>

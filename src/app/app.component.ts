@@ -15,7 +15,7 @@ export class AppComponent {
   oneWayMsg = '';
   msgFromChild = "NONE";
   twoWayChangeMsg = "";
-  tickers: Observable<string[]>;
+  tickers=[];
   twoWay = "TwoWay";
 
 
