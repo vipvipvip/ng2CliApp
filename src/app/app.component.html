@@ -12,7 +12,19 @@
     Access cTable variables: {{cTable.color}} 
   </div>
   <div class="container-fluid table">
-    <div class="row" *ngFor="let ticker of tickers">
+    <div class="row tmt-row grey-text">
+      <div class="col-md-4 uppercase">
+        Ticker Symbol
+      </div>
+      <div class="col-md-4 uppercase">
+        Name
+      </div>
+      <div class="col-md-4 uppercase">
+        Price
+      </div>
+    </div>
+
+    <div class="row tmt-row" *ngFor="let ticker of tickers">
       <div class="col-md-4">
         {{ticker.Symbol}}
       </div>
@@ -23,12 +35,18 @@
         {{ticker.LastTradePriceOnly | currency: 'USD':true:'1.2-2'}}
       </div>
     </div>
+
+    <div class="row tmt-row">
+      <app-c-table #cTable [oneWay]="name" (oneWayMsg)="getMsg($event)" (twoWayChange)="twoWayChangeMsg=$event">
+        <!--<div class="row tmt-row">-->
+          <div class="col-md-3">
+            <button class="col-md-3 main-button" type="button" (click)="sayHello()"> AppComponent click me</button>
+          </div>
+        <!--</div>-->
+      </app-c-table>
+    </div>
+
+    
   </div>
 
-  <app-c-table #cTable [oneWay]="name" (oneWayMsg)="getMsg($event)" (twoWayChange)="twoWayChangeMsg=$event"></app-c-table>
-  <div class="row">
-    <div class="col-md-3">
-      <button class="col-md-3 main-button" type="button" (click)="sayHello()"> AppComponent click me</button>
-    </div>
-  </div>
 </div>
