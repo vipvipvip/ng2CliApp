@@ -6,11 +6,9 @@ import {Observable} from 'rxjs/Observable';
 @Injectable()
 export class YahooQuotesService {
 
-  data: Array<string>;
-  errorMessage: string;
   constructor(private _http: Http) {};
 
-   getQuoteUrl(ticker) {
+   private getQuoteUrl(ticker) {
 	   var tickers = ticker.sort().map(function(t) {
 						return "'" + t + "'";
 					}).join(',');
