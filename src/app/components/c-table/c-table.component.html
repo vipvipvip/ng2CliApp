@@ -1,9 +1,13 @@
-<p>
-  c-table works!
-</p>
-twoWayMsg in Child: {{twoWay}}
-
-<div>
-  <button (click)="sendMsg()">SendMsg</button>
-  <button (click)="sendTwoMsg()">SendTwowayMsg</button>
+<div class="container-fluid">
+  <p>
+    c-table works!
+  </p>
+  twoWayMsg in Child: {{twoWay}}
+<div class="row">
+  <div class="col-md-3">
+    <button class="main-button grey" type="button" (click)="sendMsg()">SendMsg</button>
+  </div>
+  <div class="col-md-3">
+    <button class="main-button grey" type="button" (click)="sendTwoMsg()">SendTwowayMsg</button>
+  </div>
 </div>
