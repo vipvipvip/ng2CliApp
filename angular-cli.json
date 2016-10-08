@@ -15,11 +15,11 @@
       "prefix": "app",
       "mobile": false,
       "styles": [
-        "styles.css",
-        "/styles/grid.css",
-        "/styles/teamtools.css",
-        "/styles/animate.css",
-        "/styles/hint.css"
+        "app/static/styles/styles.css",
+        "app/static/styles/styles/grid.css",
+        "app/static/styles/styles/teamtools.css",
+        "app/static/styles/styles/animate.css",
+        "app/static/styles/styles/hint.css"
       ],
       "scripts": [],
       "environments": {
