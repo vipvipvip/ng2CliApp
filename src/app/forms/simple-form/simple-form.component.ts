@@ -16,5 +16,6 @@ export class SimpleFormComponent implements OnInit {
 
   purchase (form: NgForm) {
     console.log(form.value);
+    console.log(form.value.contact.firstname);
   }
 }
