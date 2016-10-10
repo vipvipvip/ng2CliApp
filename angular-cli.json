@@ -14,13 +14,7 @@
       "tsconfig": "tsconfig.json",
       "prefix": "app",
       "mobile": false,
-      "styles": [
-        "app/static/styles/styles.css",
-        "app/static/styles/styles/grid.css",
-        "app/static/styles/styles/teamtools.css",
-        "app/static/styles/styles/animate.css",
-        "app/static/styles/styles/hint.css"
-      ],
+      "styles": [],
       "scripts": [],
       "environments": {
         "source": "environments/environment.ts",
