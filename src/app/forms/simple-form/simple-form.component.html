@@ -1,0 +1,44 @@
+<div class="container-fluid table">
+<form #paymentForm="ngForm" (ngSubmit)="purchase(paymentForm)">
+  <fieldset ngModelGroup="contact">
+    <legend>Contact</legend>
+
+    <label>
+      First Name <input type="text" name="firstname" ngModel>
+    </label>
+    <label>
+      Last Name <input type="text" name="lastname" ngModel>
+    </label>
+    <label>
+      Email <input type="email" name="email" ngModel>
+    </label>
+    <label>
+      Phone <input type="text" name="phone" ngModel>
+    </label>
+  </fieldset>
+
+  <fieldset ngModelGroup="address">
+    <!-- ... -->
+    <legend>Address</legend>
+
+    <label>
+      Street Name <input type="text" name="streetname" ngModel>
+    </label>
+    <label>
+      Zip <input type="text" name="zip" ngModel>
+    </label>
+    <label>
+      State <input type="text" name="State" ngModel>
+    </label>
+    <label>
+      Country <input type="text" name="country" ngModel>
+    </label>
+  </fieldset>
+
+  <fieldset ngModelGroup="paymentCard">
+    <!-- ... -->
+  </fieldset>
+
+    <button type="submit">Submit</button>
+</form>
+</div>
