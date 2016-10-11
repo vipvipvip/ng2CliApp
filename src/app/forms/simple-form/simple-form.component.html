@@ -41,4 +41,15 @@
 
     <button type="submit">Submit</button>
 </form>
+    <div class="row tmt-row" *ngFor="let ticker of tickers">
+      <div class="col-md-4">
+        {{ticker.Symbol}}
+      </div>
+      <div class="col-md-4">
+        {{ticker.Name}}
+      </div>
+      <div class="col-md-4">
+        {{ticker.LastTradePriceOnly | currency: 'USD':true:'1.2-2'}}
+      </div>
+    </div>
 </div>

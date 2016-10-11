@@ -21,7 +21,7 @@ export class AppComponent {
   sayHello(){
     console.log('hello');
     this.twoWay = "changed by parent";
-    this.yqs.getStockQuote().subscribe(response => {
+    this.yqs.getStockQuote('').subscribe(response => {
       this.tickers = response.json().query.results.quote;
       console.log(this.tickers);
     });
