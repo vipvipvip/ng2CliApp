@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Info"
+   viewBox="0 0 23.88 24.21"
+   version="1.1"
+   sodipodi:docname="Info.svg"
+   inkscape:version="0.92.0 r15299">
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="838"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="9.7480384"
+     inkscape:cx="11.94"
+     inkscape:cy="12.105"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Info" />
+  <title
+     id="title2">Info</title>
+  <path
+     d="M27.13,14.53A11.92,11.92,0,0,1,9.25,24.88l-3.48,1.6c-1.13.62-1.45.19-1.45.19-.3-.29.1-1,.1-1L6,22.13a11.94,11.94,0,1,1,21.15-7.6ZM16.7,18.65h0V12.52h0s0,0,0-.08a1.32,1.32,0,0,0-1.32-1.32H13.87a1.32,1.32,0,0,0-1.32,1.32,1.34,1.34,0,0,0,0,.15,1.32,1.32,0,0,0,1.31,1.16h0v4.89h0a1.32,1.32,0,1,0,0,2.64H16.7a1.32,1.32,0,0,0,0-2.64ZM14.78,10.1a1.57,1.57,0,1,0-1.57-1.57A1.57,1.57,0,0,0,14.78,10.1Z"
+     transform="translate(-3.25 -2.6)"
+     id="path4"
+     style="fill:#036ce2;fill-opacity:1" />
+</svg>

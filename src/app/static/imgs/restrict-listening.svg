@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Assistive_LIstening"
+   data-name="Assistive LIstening"
+   viewBox="0 0 28.17 28.19"
+   version="1.1"
+   sodipodi:docname="Assistive LIstening.svg"
+   inkscape:version="0.92.0 r15299">
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="838"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="8.3717629"
+     inkscape:cx="14.085"
+     inkscape:cy="14.095"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Assistive_LIstening" />
+  <title
+     id="title2">Assistive LIstening</title>
+  <path
+     d="M23.43,10.24A8.8,8.8,0,0,0,20.71,5L25,.89h4.24V4.63Zm-5.79,5.25-1.59-1A3.44,3.44,0,0,0,14.6,7.93a3.53,3.53,0,0,0-3.47,3.56l-1.56-1a5.12,5.12,0,1,1,8.07,5Zm3.4.25c-.54.86-2,2.66-2.64,3.56s-2,3.45-2.61,4.46a3.87,3.87,0,0,1-3.22,1.83,4.31,4.31,0,0,1-2.64-.79L11,23.65a2.65,2.65,0,0,0,1.3.4c2,.07,3.18-2.81,4.13-4.57.47-.87,2.28-3.38,3.19-4.57a6,6,0,0,0,1-3.52,6.14,6.14,0,0,0-12.27,0,6.54,6.54,0,0,0,.07.86l-1.7-1.08a7.79,7.79,0,0,1,15.57.22A7.85,7.85,0,0,1,21,15.74ZM4.1,29.08H1V24.26l7-6.87a9.28,9.28,0,0,0,5.21,2.73Z"
+     transform="translate(-1.02 -0.89)"
+     id="path4"
+     style="fill:#036ce2;fill-opacity:1" />
+</svg>

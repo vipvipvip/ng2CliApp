@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Child_Swap"
+   data-name="Child Swap"
+   viewBox="0 0 20.21 28.77"
+   version="1.1"
+   sodipodi:docname="Child Swap.svg"
+   inkscape:version="0.92.0 r15299">
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="838"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="8.2029891"
+     inkscape:cx="10.105"
+     inkscape:cy="14.385"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Child_Swap" />
+  <title
+     id="title2">Child Swap</title>
+  <path
+     d="M12.87,5.76l.14.12a3.16,3.16,0,0,0,.41.29l.2.11a3.07,3.07,0,0,0,.46.18l.21.06a3.14,3.14,0,0,0,.71.09,3.1,3.1,0,0,0,.71-.09l.21-.06a3.13,3.13,0,0,0,.46-.18l.2-.11a3,3,0,0,0,.4-.29l.15-.12a3.12,3.12,0,0,0,.45-.52,3.11,3.11,0,1,0-5.17,0A3.1,3.1,0,0,0,12.87,5.76ZM15.76,18h-.44a12.19,12.19,0,0,1-5.5-1.18A4.6,4.6,0,0,1,8.37,15.7a1.58,1.58,0,0,1-.41-1A1.36,1.36,0,0,1,8.14,14a3.41,3.41,0,0,1,1.17-1.15,7.28,7.28,0,0,1,1.18-.61c-.09-1-.61-1.06-.71-1.11a4.76,4.76,0,0,1-1.1-.65,7.9,7.9,0,0,0-1.44,1,5.15,5.15,0,0,0-1.18,1.43A3.74,3.74,0,0,0,5.6,14.7h0a3.94,3.94,0,0,0,.93,2.48,8.06,8.06,0,0,0,3.62,2.34,15.65,15.65,0,0,0,5.17.83h.44v2.26l4.11-3.39-4.1-3.41Zm4.73-8.11-.43-.14.09-.05c1.62-1,4.36-5.23,4.5-5.44a3.43,3.43,0,0,0,.43-.83.79.79,0,0,0-.62-.92.9.9,0,0,0-.8.34C23.48,3,21,6.34,18.79,7.4a5.43,5.43,0,0,1-7.58,0C9,6.34,6.52,3,6.33,2.85a.88.88,0,0,0-.79-.34.79.79,0,0,0-.62.92,3.21,3.21,0,0,0,.43.83c.14.21,2.89,4.47,4.5,5.44s1.62.53,1.77,1.92l.18,4.09a1.47,1.47,0,0,0,0,.33,8.4,8.4,0,0,0,2.77.18c0-1.22,0-3.14,0-3.14L18.2,15.7l.18-4a9.82,9.82,0,0,1,2.44.86,4.62,4.62,0,0,1,1.46,1.12,1.58,1.58,0,0,1,.41,1A1.79,1.79,0,0,1,22.06,16a6.23,6.23,0,0,1-2.2,1.3l-.17.06,2,1.7a7.65,7.65,0,0,0,2-1.37A4.13,4.13,0,0,0,25,14.7a4,4,0,0,0-.93-2.49A8,8,0,0,0,20.49,9.88Zm-2,12.23c-.61.49-1.54,1.16-2.74,2,.31,2.13.62,4.22.62,4.22a1.26,1.26,0,0,0,2.37-.06,3.92,3.92,0,0,0,0-.7Zm-7-.67-.3,6.19a2.89,2.89,0,0,0,0,.7,1.24,1.24,0,0,0,2.36.06l1-6.64A13.8,13.8,0,0,1,11.52,21.43Z"
+     transform="translate(-4.9 -0.42)"
+     id="path4"
+     style="fill:#036ce2;fill-opacity:1" />
+</svg>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Accessible_in_ECV"
+   data-name="Accessible in ECV"
+   viewBox="0 0 24.87 28.76"
+   version="1.1"
+   sodipodi:docname="Accessible in ECV.svg"
+   inkscape:version="0.92.0 r15299">
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="838"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="8.2058414"
+     inkscape:cx="-7.3679658"
+     inkscape:cy="14.38"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Accessible_in_ECV" />
+  <title
+     id="title2">Accessible in ECV</title>
+  <path
+     d="M8.41,25.35a2,2,0,1,0,2,2A2,2,0,0,0,8.41,25.35Zm16.48,0a2,2,0,1,0,2,2A1.94,1.94,0,0,0,24.9,25.35ZM6.86,5.14A2.31,2.31,0,1,0,4.52,2.82,2.31,2.31,0,0,0,6.86,5.14ZM8.51,6.85A2,2,0,0,0,6.69,5.63a1.94,1.94,0,0,0-2,2,35.72,35.72,0,0,0,.88,5.07c.39,2.09,1,2.72,2.62,2.72h7.11l.47,5.48c.11,1.18.85,1.24,1.33,1.21s1-.44,1-1.35l-.44-6.33c-.11-1.46-.77-1.73-1.82-1.73H9.89l-.7-3H16a1.07,1.07,0,1,0,0-2.15H8.68ZM24.9,10.26a1.07,1.07,0,0,0-.57-.73L20,7.33a1.08,1.08,0,1,0-1,1.92l3.91,2,2.42,11.14H7.85V17.42h4.73c.44,0,.91-.11.91-.55s-.41-.69-.94-.69H8.21a2.88,2.88,0,0,1-3.14-2.45s-.91-4.68-.93-4.9a.66.66,0,0,0-.8-.58A.66.66,0,0,0,2.87,9c.08.3,1,5,1,5a4.77,4.77,0,0,0,1.85,2.9v6.55a1.08,1.08,0,0,0,1.08,1.08H26.65a1.08,1.08,0,0,0,1.05-1.3Z"
+     transform="translate(-2.85 -0.51)"
+     id="path4"
+     style="fill:#036ce2;fill-opacity:1" />
+</svg>

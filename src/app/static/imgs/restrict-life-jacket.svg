@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Life_Jacket"
+   data-name="Life Jacket"
+   viewBox="0 0 26.12 28.47"
+   version="1.1"
+   sodipodi:docname="Life Jacket.svg"
+   inkscape:version="0.92.0 r15299">
+  <metadata
+     id="metadata17">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="716"
+     inkscape:window-height="480"
+     id="namedview15"
+     showgrid="false"
+     inkscape:zoom="8.2894277"
+     inkscape:cx="13.06"
+     inkscape:cy="14.235"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Life_Jacket" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:none;}</style>
+  </defs>
+  <title
+     id="title6">Life Jacket</title>
+  <rect
+     class="cls-1"
+     x="7.24"
+     y="11.2"
+     width="2.46"
+     height="5.81"
+     id="rect8" />
+  <path
+     d="M14.74,21.52c0-.4,0-.78,0-1.14a23.84,23.84,0,0,0-.37-4.19h-2V14h1.52a27.62,27.62,0,0,0-8-12.84.68.68,0,0,0-1.1,0L3,3.43a.9.9,0,0,0,.13,1.23L5.81,8a.82.82,0,0,1-.08,1.19L2.68,12A2,2,0,0,0,2,13.36V14H8.55v2.21H2v5.33H8.55v2.21H2v1.79a1.2,1.2,0,0,0,.83,1.09l9.68,2.7a.83.83,0,0,0,1-.6s.59-2.41,1-5H12.39V21.52Zm-5.5-9.44H11.7v5.81H9.24Zm0,11.65V19.78H11.7v5.81H9.24Z"
+     transform="translate(-2 -0.88)"
+     id="path10"
+     style="fill:#036ce2;fill-opacity:1" />
+  <path
+     d="M28.12,14v-.62A2,2,0,0,0,27.44,12l-3-2.79A.82.82,0,0,1,24.31,8l2.64-3.33a.9.9,0,0,0,.13-1.23L25.29,1.16a.68.68,0,0,0-1.1,0A27.62,27.62,0,0,0,16.2,14h1.52v2.21h-2a23.84,23.84,0,0,0-.37,4.19c0,.36,0,.75,0,1.14h2.35v2.21H15.61c.37,2.57,1,5,1,5a.83.83,0,0,0,1,.6l9.68-2.7a1.2,1.2,0,0,0,.83-1.09V23.73H21.56V21.52h6.56V16.19H21.56V14Zm-9.71,2.21V12.08h2.46v5.81H18.41Zm2.46,7.54v1.86H18.41V19.78h2.46v3.95Z"
+     transform="translate(-2 -0.88)"
+     id="path12"
+     style="fill:#036ce2;fill-opacity:1" />
+</svg>
