@@ -125,7 +125,7 @@ header .logo {
     left: 0px;
     top: 0px;
     position: absolute;
-    background-image:url(../imgs/pngs/uo-logo-sm.png);
+    background-image:url(imgs/pngs/uo-logo-sm.png);
     background-size: contain;
 }
 
@@ -149,7 +149,7 @@ header .logout {
     display:flex;
     float: right;
     align-items: center;
-    background-image: url(../imgs/arrow-right-lightblue.svg);
+    background-image: url(imgs/arrow-right-lightblue.svg);
     background-repeat: no-repeat;
     background-position: right center;
     background-size: 8px;
@@ -610,15 +610,15 @@ input[type='email'] {
 /* END - TMT Diamond */
 
 .subnav a:hover    .home,
-.subnav a.selected .home        { background-image: url(../imgs/home-white.svg); }
+.subnav a.selected .home        { background-image: url(imgs/home-white.svg); }
 .subnav a:hover    .equalizer,
-.subnav a.selected .equalizer   { background-image: url(../imgs/equalizer-white.svg); }
+.subnav a.selected .equalizer   { background-image: url(imgs/equalizer-white.svg); }
 .subnav a:hover    .profile,
-.subnav a.selected .profile     { background-image: url(../imgs/personal-basic-icon-white.svg); }
+.subnav a.selected .profile     { background-image: url(imgs/personal-basic-icon-white.svg); }
 .subnav a:hover .timeline,
-.subnav a.selected .timeline    { background-image: url(../imgs/clock-white.svg); }
+.subnav a.selected .timeline    { background-image: url(imgs/clock-white.svg); }
 .subnav a:hover .notes,
-.subnav a.selected .notes       { background-image: url(../imgs/notes-white.svg); }
+.subnav a.selected .notes       { background-image: url(imgs/notes-white.svg); }
 
 .subnav .right a {
     color: #036ce2;
@@ -969,35 +969,35 @@ input[type=range]:focus::-ms-fill-upper {
     background: transparent;
 }
 .bg-1-5 {
-    background-image: url("../imgs/pngs/radio1.png") !important;
+    background-image: url("imgs/pngs/radio1.png") !important;
     background-repeat: no-repeat !important;
     background-size: 100% auto;
     height: 4em;
     z-index: 9999;
 }
 .bg-2-5 {
-    background-image: url("../imgs/pngs/radio2.png") !important;
+    background-image: url("imgs/pngs/radio2.png") !important;
     background-repeat: no-repeat !important;
     background-size: 100% auto;
     height: 4em;
     z-index: 9999;
 }
 .bg-3-5 {
-    background-image: url("../imgs/pngs/radio3.png") !important;
+    background-image: url("imgs/pngs/radio3.png") !important;
     background-repeat: no-repeat !important;
     background-size: 100% auto;
     height: 4em;
     z-index: 9999;
 }
 .bg-4-5 {
-    background-image: url("../imgs/pngs/radio4.png") !important;
+    background-image: url("imgs/pngs/radio4.png") !important;
     background-repeat: no-repeat !important;
     background-size: 100% auto;
     height: 4em;
     z-index: 9999;
 }
 .bg-5-5 {
-    background-image: url("../imgs/pngs/radio5.png") !important;
+    background-image: url("imgs/pngs/radio5.png") !important;
     background-repeat: no-repeat !important;
     background-size: 100% auto;
     height: 4em;
@@ -1005,28 +1005,28 @@ input[type=range]:focus::-ms-fill-upper {
 }
 
 .bg-1-4 {
-    background-image: url("../imgs/pngs/radio4-1.png") !important;
+    background-image: url("imgs/pngs/radio4-1.png") !important;
     background-repeat: no-repeat !important;
     background-size: 100% auto;
     height: 5em;
     z-index: 9999;
 }
 .bg-2-4 {
-    background-image: url("../imgs/pngs/radio4-2.png") !important;
+    background-image: url("imgs/pngs/radio4-2.png") !important;
     background-repeat: no-repeat !important;
     background-size: 100% auto;
     height: 5em;
     z-index: 9999;
 }
 .bg-3-4 {
-    background-image: url("../imgs/pngs/radio4-3.png") !important;
+    background-image: url("imgs/pngs/radio4-3.png") !important;
     background-repeat: no-repeat !important;
     background-size: 100% auto;
     height: 5em;
     z-index: 9999;
 }
 .bg-4-4{
-    background-image: url("../imgs/pngs/radio4-4.png") !important;
+    background-image: url("imgs/pngs/radio4-4.png") !important;
     background-repeat: no-repeat !important;
     background-size: 100% auto;
     height: 5em;
@@ -1034,21 +1034,21 @@ input[type=range]:focus::-ms-fill-upper {
 }
 
 .bg-1-3 {
-    background-image: url("../imgs/pngs/radio-comm1.png") !important;
+    background-image: url("imgs/pngs/radio-comm1.png") !important;
     background-repeat: no-repeat !important;
     background-size: 100% auto;
     height: 6em;
     z-index: 9999;
 }
 .bg-2-3 {
-    background-image: url("../imgs/pngs/radio-comm2.png") !important;
+    background-image: url("imgs/pngs/radio-comm2.png") !important;
     background-repeat: no-repeat !important;
     background-size: 100% auto;
     height: 6em;
     z-index: 9999;
 }
 .bg-3-3 {
-    background-image: url("../imgs/pngs/radio-comm3.png") !important;
+    background-image: url("imgs/pngs/radio-comm3.png") !important;
     background-repeat: no-repeat !important;
     background-size: 100% auto;
     height: 6em;
@@ -1056,14 +1056,14 @@ input[type=range]:focus::-ms-fill-upper {
 }
 
 .bg-1-2 {
-    background-image: url("../imgs/pngs/radio2-1.png") !important;
+    background-image: url("imgs/pngs/radio2-1.png") !important;
     background-repeat: no-repeat !important;
     background-size: 100% auto;
     height: 7em;
     z-index: 9999;
 }
 .bg-2-2 {
-    background-image: url("../imgs/pngs/radio2-2.png") !important;
+    background-image: url("imgs/pngs/radio2-2.png") !important;
     background-repeat: no-repeat !important;
     background-size: 100% auto;
     height: 7em;
@@ -1071,35 +1071,35 @@ input[type=range]:focus::-ms-fill-upper {
 }
 
 .bg-01 {
-    background-image: url("../imgs/pngs/radio1.png") !important;
+    background-image: url("imgs/pngs/radio1.png") !important;
     background-repeat: no-repeat !important;
     background-size: 99% auto;
     height: 4em;
     z-index: 9999;
 }
 .bg-02 {
-    background-image: url("../imgs/pngs/radio2.png") !important;
+    background-image: url("imgs/pngs/radio2.png") !important;
     background-repeat: no-repeat !important;
     background-size: 99% auto;
     height: 4em;
     z-index: 9999;
 }
 .bg-03 {
-    background-image: url("../imgs/pngs/radio3.png") !important;
+    background-image: url("imgs/pngs/radio3.png") !important;
     background-repeat: no-repeat !important;
     background-size: 99% auto;
     height: 4em;
     z-index: 9999;
 }
 .bg-04 {
-    background-image: url("../imgs/pngs/radio4.png") !important;
+    background-image: url("imgs/pngs/radio4.png") !important;
     background-repeat: no-repeat !important;
     background-size: 100% auto;
     height: 4em;
     z-index: 9999;
 }
 .bg-05 {
-    background-image: url("../imgs/pngs/radio5.png") !important;
+    background-image: url("imgs/pngs/radio5.png") !important;
     background-repeat: no-repeat !important;
     background-size: 100% auto;
     height: 4em;
@@ -1198,7 +1198,7 @@ input[type="range"]:-moz-focusring {
     color: #036ce2;
     font-size: 13.5px;
     text-align: right;
-    background-image: url(../imgs/arrow-right-blue.svg);
+    background-image: url(imgs/arrow-right-blue.svg);
     padding-right: 16px;
     background-position: right center;
     background-size: 7px 12px;
@@ -1229,13 +1229,13 @@ input[type="range"]:-moz-focusring {
 }
 
 .details-button.down,
-.details.down  { background-image: url(../imgs/arrow-down-blue.svg); }
+.details.down  { background-image: url(imgs/arrow-down-blue.svg); }
 .details-button.up,
-.details.up    { background-image: url(../imgs/arrow-up-blue.svg);   }
+.details.up    { background-image: url(imgs/arrow-up-blue.svg);   }
 .details-button.left,
-.details.left  { background-image: url(../imgs/arrow-left-blue.svg); }
+.details.left  { background-image: url(imgs/arrow-left-blue.svg); }
 .details-button.right,
-.details.right { background-image: url(../imgs/arrow-right-blue.svg);}
+.details.right { background-image: url(imgs/arrow-right-blue.svg);}
 
 .details:hover {
     text-decoration: underline;
@@ -1635,56 +1635,56 @@ input[type="range"]:-moz-focusring {
 }
 
 .icon.md { width: 45px; height: 45px; }
-.icon.affiliations   { background-image: url(../imgs/affiliations-icon-gray3.svg); }
-.icon.arrow-left-blue   { background-image: url(../imgs/arrow-left-blue.svg); }
-.icon.arrow-right-blue  { background-image: url(../imgs/arrow-right-blue.svg); }
-.icon.arrow-right-white { background-image: url(../imgs/arrow-right-white.svg); }
-.icon.arrow-down-blue   { background-image: url(../imgs/arrow-down-blue.svg); }
-.icon.arrow-up-blue     { background-image: url(../imgs/arrow-up-blue.svg); }
-.icon.text-clear-grey   { background-image: url(../imgs/circled-x-gray1.svg); }
-.icon.home              { background-image: url(../imgs/home-black.svg); }
-.icon.equalizer         { background-image: url(../imgs/equalizer-black.svg); }
-.icon.timeline          { background-image: url(../imgs/clock-black.svg); }
-.icon.profile           { background-image: url(../imgs/personal-basic-icon-black.svg); }
-.icon.timeline-blue     { background-image: url(../imgs/clock-blue.svg); }
-.icon.notes             { background-image: url(../imgs/notes-black.svg); }
-.icon.trashcan-gray     { background-image: url(../imgs/trash-can-gray3.svg)}
-.icon.star-gold         { background-image: url(../imgs/star-gold.svg); }
-.icon.mobile-menu       { background-image: url(../imgs/mobile-menu.svg); }
-.icon.close-button      { background-image: url(../imgs/x-cancel-gray3.svg); }
-.icon.close-button-white{ background-image: url(../imgs/x-cancel-white.svg); }
-.icon.keys              { background-image: url(../imgs/key-blue.svg); }
-.icon.qr-code           { background-image: url(../imgs/qr-code-blue.svg); }
-.icon.rfid-card         { background-image: url(../imgs/rfid-card-blue.svg); }
-.icon.wnw-band          { background-image: url(../imgs/wnw-band-blue.svg); }
-.icon.park-to-park      { background-image: url(../imgs/entitlements-tickets-blue.svg); }
-.icon.express           { background-image: url(../imgs/express-pass-blue.svg); }
-.icon.dining-plan       { background-image: url(../imgs/dining-plan-blue.svg); }
-.icon.travel-guests     { background-image: url(../imgs/travel-guests-gray3.svg); }
-.icon.circled-info-blue    {background-image: url(../imgs/circled-i-blue.svg)}
-.icon.circled-info-gray    {background-image: url(../imgs/circled-i-gray2.svg)}
+.icon.affiliations   { background-image: url(imgs/affiliations-icon-gray3.svg); }
+.icon.arrow-left-blue   { background-image: url(imgs/arrow-left-blue.svg); }
+.icon.arrow-right-blue  { background-image: url(imgs/arrow-right-blue.svg); }
+.icon.arrow-right-white { background-image: url(imgs/arrow-right-white.svg); }
+.icon.arrow-down-blue   { background-image: url(imgs/arrow-down-blue.svg); }
+.icon.arrow-up-blue     { background-image: url(imgs/arrow-up-blue.svg); }
+.icon.text-clear-grey   { background-image: url(imgs/circled-x-gray1.svg); }
+.icon.home              { background-image: url(imgs/home-black.svg); }
+.icon.equalizer         { background-image: url(imgs/equalizer-black.svg); }
+.icon.timeline          { background-image: url(imgs/clock-black.svg); }
+.icon.profile           { background-image: url(imgs/personal-basic-icon-black.svg); }
+.icon.timeline-blue     { background-image: url(imgs/clock-blue.svg); }
+.icon.notes             { background-image: url(imgs/notes-black.svg); }
+.icon.trashcan-gray     { background-image: url(imgs/trash-can-gray3.svg)}
+.icon.star-gold         { background-image: url(imgs/star-gold.svg); }
+.icon.mobile-menu       { background-image: url(imgs/mobile-menu.svg); }
+.icon.close-button      { background-image: url(imgs/x-cancel-gray3.svg); }
+.icon.close-button-white{ background-image: url(imgs/x-cancel-white.svg); }
+.icon.keys              { background-image: url(imgs/key-blue.svg); }
+.icon.qr-code           { background-image: url(imgs/qr-code-blue.svg); }
+.icon.rfid-card         { background-image: url(imgs/rfid-card-blue.svg); }
+.icon.wnw-band          { background-image: url(imgs/wnw-band-blue.svg); }
+.icon.park-to-park      { background-image: url(imgs/entitlements-tickets-blue.svg); }
+.icon.express           { background-image: url(imgs/express-pass-blue.svg); }
+.icon.dining-plan       { background-image: url(imgs/dining-plan-blue.svg); }
+.icon.travel-guests     { background-image: url(imgs/travel-guests-gray3.svg); }
+.icon.circled-info-blue    {background-image: url(imgs/circled-i-blue.svg)}
+.icon.circled-info-gray    {background-image: url(imgs/circled-i-gray2.svg)}
 
-.icon.event-type.ride       { background-image: url(../imgs/rides-icon-black.svg); }
-.icon.event-type.PARKTICKET {background-image: url(../imgs/entitlements-tickets-gray3.svg)}
-.icon.event-type.UEP        {background-image: url(../imgs/express-pass-gray3.svg)}
-.icon.event-type.dining     { background-image: url(../imgs/dining-icon-black.svg); }
-.icon.event-type.show       { background-image: url(../imgs/masks-shows-black.svg); }
+.icon.event-type.ride       { background-image: url(imgs/rides-icon-black.svg); }
+.icon.event-type.PARKTICKET {background-image: url(imgs/entitlements-tickets-gray3.svg)}
+.icon.event-type.UEP        {background-image: url(imgs/express-pass-gray3.svg)}
+.icon.event-type.dining     { background-image: url(imgs/dining-icon-black.svg); }
+.icon.event-type.show       { background-image: url(imgs/masks-shows-black.svg); }
 
 
-.selected .icon.affiliations        { background-image: url(../imgs/affiliations-icon-white.svg); }
-.selected .icon.wnw-band            { background-image: url(../imgs/wnw-band-white.svg); }
-.selected .icon.arrow-right-blue    { background-image: url(../imgs/arrow-right-white.svg); }
-.selected .icon.arrow-down-blue     { background-image: url(../imgs/arrow-up-white.svg); }
-.selected .icon.event-type.ride     { background-image: url(../imgs/rides-icon-white.svg); }
-.selected .icon.home                { background-image: url(../imgs/home-white.svg); }
-.selected .icon.equalizer           { background-image: url(../imgs/equalizer-white.svg); }
-.selected .icon.timeline            { background-image: url(../imgs/clock-white.svg); }
-.selected .icon.profile             { background-image: url(../imgs/personal-basic-icon-white.svg); }
-.selected .icon.notes               { background-image: url(../imgs/notes-white.svg); }
-.selected .icon.park-to-park        { background-image: url(../imgs/entitlements-tickets-white.svg); }
-.selected .icon.dining-plan         { background-image: url(../imgs/dining-plan-white.svg); }
-.selected .icon.rfid-card           { background-image: url(../imgs/rfid-card-white.svg); }
-.selected .icon.travel-guests       { background-image: url(../imgs/travel-guests-white.svg); }
+.selected .icon.affiliations        { background-image: url(imgs/affiliations-icon-white.svg); }
+.selected .icon.wnw-band            { background-image: url(imgs/wnw-band-white.svg); }
+.selected .icon.arrow-right-blue    { background-image: url(imgs/arrow-right-white.svg); }
+.selected .icon.arrow-down-blue     { background-image: url(imgs/arrow-up-white.svg); }
+.selected .icon.event-type.ride     { background-image: url(imgs/rides-icon-white.svg); }
+.selected .icon.home                { background-image: url(imgs/home-white.svg); }
+.selected .icon.equalizer           { background-image: url(imgs/equalizer-white.svg); }
+.selected .icon.timeline            { background-image: url(imgs/clock-white.svg); }
+.selected .icon.profile             { background-image: url(imgs/personal-basic-icon-white.svg); }
+.selected .icon.notes               { background-image: url(imgs/notes-white.svg); }
+.selected .icon.park-to-park        { background-image: url(imgs/entitlements-tickets-white.svg); }
+.selected .icon.dining-plan         { background-image: url(imgs/dining-plan-white.svg); }
+.selected .icon.rfid-card           { background-image: url(imgs/rfid-card-white.svg); }
+.selected .icon.travel-guests       { background-image: url(imgs/travel-guests-white.svg); }
 
 /* END - Date Picker */
 
@@ -1706,11 +1706,11 @@ input[type="range"]:-moz-focusring {
     min-height: inherit; /* TODO: Why do I need this? */
     width: 32px;
     height: 32px;
-    background-image: url(../imgs/minus-button-blue.svg)
+    background-image: url(imgs/minus-button-blue.svg)
 }
 
 .time-picker-widget button.add-time {
-    background-image: url(../imgs/add-button-blue.svg)
+    background-image: url(imgs/add-button-blue.svg)
 }
 
 /* END - Time Picker */
@@ -1810,7 +1810,7 @@ input[type="checkbox"].vert-top + label:before {
 }
 
 input[type="checkbox"]:checked + label:before {
-    background-image: url(../../static/imgs/check-mark-b-white.svg); 
+    background-image: url(imgs/check-mark-b-white.svg); 
     background-position: center;
     background-repeat: no-repeat;
     background-size: 13px 12px;
@@ -1828,7 +1828,7 @@ select {
     -webkit-appearance: none;
     -moz-appearance: none;
     appearance: none;
-    background: url(../../static/imgs/arrow-down-blue.svg) calc(100% - 20px) 20px no-repeat #ffffff;
+    background: url(imgs/arrow-down-blue.svg) calc(100% - 20px) 20px no-repeat #ffffff;
     background-size: 14px 7px;
     color: #797A7D;
     outline: none;
@@ -1977,7 +1977,7 @@ select::-ms-expand {
 .icon-link {
     color: #036ce2;
     display: inline-block;
-    background-image: url(../imgs/arrow-right-blue.svg);
+    background-image: url(imgs/arrow-right-blue.svg);
     padding-right: 1em;
     background-position: right center;
     background-repeat: no-repeat;
@@ -1995,62 +1995,62 @@ select::-ms-expand {
 .icon.sm                { width: 20px; height: 20px; }
 .icon.md                { width: 45px; height: 45px; }
 
-.icon.affiliations      { background-image: url(../imgs/affiliations-icon-gray3.svg); }
-.icon.arrow-left-blue   { background-image: url(../imgs/arrow-left-blue.svg); }
-.icon.arrow-left-white  { background-image: url(../imgs/arrow-left-white.svg); }
-.icon.arrow-right-blue  { background-image: url(../imgs/arrow-right-blue.svg); }
-.icon.arrow-right-white { background-image: url(../imgs/arrow-right-white.svg); }
-.icon.arrow-down-blue   { background-image: url(../imgs/arrow-down-blue.svg); }
-.icon.arrow-down-white  { background-image: url(../imgs/arrow-down-white.svg); }
-.icon.arrow-up-blue     { background-image: url(../imgs/arrow-up-blue.svg); }
-.icon.arrow-up-white    { background-image: url(../imgs/arrow-up-white.svg); }
-.icon.text-clear-grey   { background-image: url(../imgs/circled-x-gray1.svg); }
-.icon.home              { background-image: url(../imgs/home-black.svg); }
-.icon.equalizer         { background-image: url(../imgs/equalizer-black.svg); }
-.icon.timeline          { background-image: url(../imgs/clock-black.svg); }
-.icon.profile           { background-image: url(../imgs/personal-basic-icon-black.svg); }
-.icon.timeline-blue     { background-image: url(../imgs/clock-blue.svg); }
-.icon.notes             { background-image: url(../imgs/notes-black.svg); }
-.icon.mobile-menu       { background-image: url(../imgs/mobile-menu.svg); }
-.icon.close-button      { background-image: url(../imgs/x-cancel-gray3.svg); }
-.icon.close-button-white{ background-image: url(../imgs/x-cancel-white.svg); }
-.icon.keys              { background-image: url(../imgs/key-blue.svg); }
-.icon.qr-code           { background-image: url(../imgs/qr-code-blue.svg); }
-.icon.rfid-card         { background-image: url(../imgs/rfid-card-blue.svg); }
-.icon.wnw-band          { background-image: url(../imgs/wnw-band-blue.svg); }
-.icon.park-to-park      { background-image: url(../imgs/entitlements-tickets-blue.svg); }
-.icon.express           { background-image: url(../imgs/express-pass-blue.svg); }
-.icon.dining-plan       { background-image: url(../imgs/dining-plan-blue.svg); }
-.icon.event-type.ride   { background-image: url(../imgs/rides-icon-black.svg); }
-.icon.travel-guests     { background-image: url(../imgs/travel-guests-gray3.svg); }
+.icon.affiliations      { background-image: url(imgs/affiliations-icon-gray3.svg); }
+.icon.arrow-left-blue   { background-image: url(imgs/arrow-left-blue.svg); }
+.icon.arrow-left-white  { background-image: url(imgs/arrow-left-white.svg); }
+.icon.arrow-right-blue  { background-image: url(imgs/arrow-right-blue.svg); }
+.icon.arrow-right-white { background-image: url(imgs/arrow-right-white.svg); }
+.icon.arrow-down-blue   { background-image: url(imgs/arrow-down-blue.svg); }
+.icon.arrow-down-white  { background-image: url(imgs/arrow-down-white.svg); }
+.icon.arrow-up-blue     { background-image: url(imgs/arrow-up-blue.svg); }
+.icon.arrow-up-white    { background-image: url(imgs/arrow-up-white.svg); }
+.icon.text-clear-grey   { background-image: url(imgs/circled-x-gray1.svg); }
+.icon.home              { background-image: url(imgs/home-black.svg); }
+.icon.equalizer         { background-image: url(imgs/equalizer-black.svg); }
+.icon.timeline          { background-image: url(imgs/clock-black.svg); }
+.icon.profile           { background-image: url(imgs/personal-basic-icon-black.svg); }
+.icon.timeline-blue     { background-image: url(imgs/clock-blue.svg); }
+.icon.notes             { background-image: url(imgs/notes-black.svg); }
+.icon.mobile-menu       { background-image: url(imgs/mobile-menu.svg); }
+.icon.close-button      { background-image: url(imgs/x-cancel-gray3.svg); }
+.icon.close-button-white{ background-image: url(imgs/x-cancel-white.svg); }
+.icon.keys              { background-image: url(imgs/key-blue.svg); }
+.icon.qr-code           { background-image: url(imgs/qr-code-blue.svg); }
+.icon.rfid-card         { background-image: url(imgs/rfid-card-blue.svg); }
+.icon.wnw-band          { background-image: url(imgs/wnw-band-blue.svg); }
+.icon.park-to-park      { background-image: url(imgs/entitlements-tickets-blue.svg); }
+.icon.express           { background-image: url(imgs/express-pass-blue.svg); }
+.icon.dining-plan       { background-image: url(imgs/dining-plan-blue.svg); }
+.icon.event-type.ride   { background-image: url(imgs/rides-icon-black.svg); }
+.icon.travel-guests     { background-image: url(imgs/travel-guests-gray3.svg); }
 .icon.event-type.PARKTICKET
-                        { background-image: url(../imgs/entitlements-tickets-gray3.svg); }
-.icon.event-type.UEP    { background-image: url(../imgs/express-pass-gray3.svg); }
-.icon.circled-info-blue { background-image: url(../imgs/circled-i-blue.svg); }
-.icon.circled-info-gray { background-image: url(../imgs/circled-i-gray2.svg); }
-.icon.entit-item        { background-image: url(../imgs/entitlements-item-blue.svg); }
-.icon.entit-item-black  { background-image: url(../imgs/entitlements-item-black.svg); }
-.icon.entit-item-white   { background-image: url(../imgs/entitlements-item-white.svg); }
+                        { background-image: url(imgs/entitlements-tickets-gray3.svg); }
+.icon.event-type.UEP    { background-image: url(imgs/express-pass-gray3.svg); }
+.icon.circled-info-blue { background-image: url(imgs/circled-i-blue.svg); }
+.icon.circled-info-gray { background-image: url(imgs/circled-i-gray2.svg); }
+.icon.entit-item        { background-image: url(imgs/entitlements-item-blue.svg); }
+.icon.entit-item-black  { background-image: url(imgs/entitlements-item-black.svg); }
+.icon.entit-item-white   { background-image: url(imgs/entitlements-item-white.svg); }
 
 
-.selected .icon.affiliations        { background-image: url(../imgs/affiliations-icon-white.svg); }
-.selected .icon.wnw-band            { background-image: url(../imgs/wnw-band-white.svg); }
-.selected .icon.arrow-right-blue    { background-image: url(../imgs/arrow-right-white.svg); }
-.selected .icon.arrow-down-blue     { background-image: url(../imgs/arrow-up-white.svg); }
-.selected .icon.event-type.ride     { background-image: url(../imgs/rides-icon-white.svg); }
-.selected .icon.home                { background-image: url(../imgs/home-white.svg); }
-.selected .icon.equalizer           { background-image: url(../imgs/equalizer-white.svg); }
-.selected .icon.timeline            { background-image: url(../imgs/clock-white.svg); }
-.selected .icon.profile             { background-image: url(../imgs/personal-basic-icon-white.svg); }
-.selected .icon.notes               { background-image: url(../imgs/notes-white.svg); }
-.selected .icon.park-to-park        { background-image: url(../imgs/entitlements-tickets-white.svg); }
-.selected .icon.dining-plan         { background-image: url(../imgs/dining-plan-white.svg); }
-.selected .icon.rfid-card           { background-image: url(../imgs/rfid-card-white.svg); }
-.selected .icon.travel-guests       { background-image: url(../imgs/travel-guests-white.svg); }
-.selected .icon.entit-item          { background-image: url(../imgs/entitlements-item-white.svg); }
+.selected .icon.affiliations        { background-image: url(imgs/affiliations-icon-white.svg); }
+.selected .icon.wnw-band            { background-image: url(imgs/wnw-band-white.svg); }
+.selected .icon.arrow-right-blue    { background-image: url(imgs/arrow-right-white.svg); }
+.selected .icon.arrow-down-blue     { background-image: url(imgs/arrow-up-white.svg); }
+.selected .icon.event-type.ride     { background-image: url(imgs/rides-icon-white.svg); }
+.selected .icon.home                { background-image: url(imgs/home-white.svg); }
+.selected .icon.equalizer           { background-image: url(imgs/equalizer-white.svg); }
+.selected .icon.timeline            { background-image: url(imgs/clock-white.svg); }
+.selected .icon.profile             { background-image: url(imgs/personal-basic-icon-white.svg); }
+.selected .icon.notes               { background-image: url(imgs/notes-white.svg); }
+.selected .icon.park-to-park        { background-image: url(imgs/entitlements-tickets-white.svg); }
+.selected .icon.dining-plan         { background-image: url(imgs/dining-plan-white.svg); }
+.selected .icon.rfid-card           { background-image: url(imgs/rfid-card-white.svg); }
+.selected .icon.travel-guests       { background-image: url(imgs/travel-guests-white.svg); }
+.selected .icon.entit-item          { background-image: url(imgs/entitlements-item-white.svg); }
 
-.icon.arrowEntitlement-down-blue   { background-image: url(../imgs/arrow-down-blue.svg); }
-.selectedEntitlement  .icon.arrowEntitlement-down-blue   { background-image: url(../imgs/arrow-up-white.svg); }
+.icon.arrowEntitlement-down-blue   { background-image: url(imgs/arrow-down-blue.svg); }
+.selectedEntitlement  .icon.arrowEntitlement-down-blue   { background-image: url(imgs/arrow-up-white.svg); }
 
 .selectedEntitlement{background-color:#162b75!important}
 .selectedEntitlement .EntitlementButton h2 ,.selectedEntitlement .EntitlementButton h3{color:#fff}
